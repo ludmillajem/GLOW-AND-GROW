@@ -67,7 +67,13 @@ li a,
     font-size: 18px;
 }
 
-.nav-bar li a:hover, .dropdown:hover, .dropbtn:hover{
+.nav-bar li a:hover{
+    background-color: #d7fffe;
+    color: #39838b;
+    border-radius: 50px;
+}
+
+.dropdown:hover, .dropbtn:hover{
     background-color: #d7fffe;
     color: #39838b;
     border-radius: 50px;
